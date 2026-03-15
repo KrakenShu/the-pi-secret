@@ -19,6 +19,8 @@ where \(K(1/e)\) is the complete elliptic integral of the first kind evaluated a
 
 Thus, this equation is **not fitting** \(\pi\)—it defines the relationship between the \(\pi\) in the occult universe and the \(\pi\) in our mathematical universe. The \(\delta\) is not a fitting residual, but the intrinsic gap left by projection.
 
+For the complete derivation of δ and its three-layer decomposition, see [delta-proof.md](delta-proof.md).
+
 ---
 
 ### 中文版
