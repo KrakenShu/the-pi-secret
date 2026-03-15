@@ -1,7 +1,3 @@
-根据你的修改建议，我已调整了公式格式：块级公式使用 `$$...$$`，行内公式使用 `\(...\)`（GitHub 支持这种写法）。下面是最终版本，可以直接复制到 GitHub 的 README 中。
-
----
-
 ### The π Secret
 
 Have you ever seen this equation?
